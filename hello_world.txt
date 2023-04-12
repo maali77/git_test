@@ -1,1 +1,1 @@
-Hello my name is Musa and this is me messing around with Git
+Hello my name is Musa and this is me learning how to commit a file with Git
